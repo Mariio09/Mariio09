@@ -34,8 +34,8 @@ Tools and Lenguajes
 
 <h2>These are my Github stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariio09&show_icons=true&theme=ambient_gradient&count_private=true.)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariio09&show_icons=true&theme=dark&count_private=true.)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
