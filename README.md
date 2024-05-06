@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">My name is Mario and I'm a web developer, from Spain</p>
+<p align="center">My name is Mario and I'm a web developer, from Spain 🇪🇸 </p>
 
 ###
 
@@ -88,9 +88,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=marioperezlopez-es&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mariio09/Mariio09/output/snake.svg" alt="Snake animation" />
-
 ###
