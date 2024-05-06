@@ -88,4 +88,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=marioperezlopez-es&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-###
